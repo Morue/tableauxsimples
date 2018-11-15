@@ -40,7 +40,7 @@ public class Tp3Exercice1 {
 		for (int i = 0; i <= array.length - 1; i++){
 		    if (array[i] >3) {
 		    	
-		    	System.out.print (array[i]);
+		    	System.out.print (array[i] + " ");
 		    }
 		}
 			
@@ -51,7 +51,7 @@ public class Tp3Exercice1 {
 		for (int i = 0; i <= array.length - 1; i++){
 		    if (array[i] % 2 == 0) {
 		    	
-		    	System.out.print (array[i]);
+		    	System.out.print (array[i] + " ");
 		    }
 		}
 		
